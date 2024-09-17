@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-
-/**
- * Javier Gomez Tagle
+/* Javier Gomez Tagle
  * Professer Meuth Miller
  * CSE 205
  * 17 September 2024
@@ -9,6 +6,8 @@ import java.util.ArrayList;
  * This program will use one of five methods that perform a computation on a
  * single or pair of ArrayLists.
  */
+
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
