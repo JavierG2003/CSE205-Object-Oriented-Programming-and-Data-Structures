@@ -1,9 +1,5 @@
 // implement the Tortoise class here
-public class Tortoise extends Racer {
-    // FIELDS --------------------------------------------------------
-
-    // METHODS -------------------------------------------------------
-    
+public class Tortoise extends Racer {    
     public Tortoise(String name) {
         super(name, 2.0, 3.0);
 
